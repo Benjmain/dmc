@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "DMC",
   "resources": [
+    {"id":{"name":"spr_archer_walk","path":"sprites/spr_archer_walk/spr_archer_walk.yy",},"order":0,},
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
