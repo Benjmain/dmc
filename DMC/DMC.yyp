@@ -4,7 +4,11 @@
   "name": "DMC",
   "resources": [
     {"id":{"name":"spr_archer_walk","path":"sprites/spr_archer_walk/spr_archer_walk.yy",},"order":0,},
-    {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":0,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"obj_archer","path":"objects/obj_archer/obj_archer.yy",},"order":1,},
+    {"id":{"name":"spr_tile_64","path":"sprites/spr_tile_64/spr_tile_64.yy",},"order":1,},
+    {"id":{"name":"obj_card_move","path":"objects/obj_card_move/obj_card_move.yy",},"order":0,},
+    {"id":{"name":"spr_card_blue","path":"sprites/spr_card_blue/spr_card_blue.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

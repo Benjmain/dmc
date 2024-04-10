@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_card",
-  "spriteId": null,
+  "name": "obj_archer",
+  "spriteId": {
+    "name": "spr_archer_walk",
+    "path": "sprites/spr_archer_walk/spr_archer_walk.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
